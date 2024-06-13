@@ -1,0 +1,6 @@
+&grid
+	latitude_gridnum = 145
+	vertical_gridnum = 45
+	horizontal_resolution = 1.25
+&end
+

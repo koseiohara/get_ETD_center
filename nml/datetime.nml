@@ -1,0 +1,8 @@
+&datetime
+	year_ini = 1949
+	month_ini = 12
+	day_ini = 1
+	hour_ini = 0
+	year_fin = 2022
+&end
+
